@@ -1,5 +1,4 @@
 import _ from 'lodash';
-import "./primitive-json-viewer.css";
 import { Container, FormControl, FormCheck } from "react-bootstrap";
 import { useEditHook } from "../hooks/useEdit";
  

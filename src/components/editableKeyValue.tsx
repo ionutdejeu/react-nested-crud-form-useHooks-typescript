@@ -1,6 +1,5 @@
 
 import _ from 'lodash';
-import "./primitive-json-viewer.css";
 import { castType, getValueType } from '../tools/helpers';
 import FieldSpacer from './fieldSpacer';
 import { EditableValue } from './editableValue';

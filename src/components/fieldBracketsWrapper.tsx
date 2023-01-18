@@ -1,5 +1,4 @@
 import React, { memo } from "react";
-import styled from "styled-components"
 import { getClosingCharacterForType, getOpenCharacterForType } from "../tools/helpers";
 
 export const FieldBracketWrapper = ({ value }: any) => {

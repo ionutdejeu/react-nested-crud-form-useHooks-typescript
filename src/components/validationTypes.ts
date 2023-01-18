@@ -3,6 +3,7 @@ export interface IBaseUser {
     profession: string;
     age: number | string;
 }
+
 export interface IUser extends IBaseUser {
     id: number;
 }

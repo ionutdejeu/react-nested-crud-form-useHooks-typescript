@@ -1,6 +1,5 @@
 import React, { memo } from "react";
 
-import "./fieldSpacer.css";
 
 const FieldSpacer = ({ id = "", level=0 }) => {
   const separators = [];

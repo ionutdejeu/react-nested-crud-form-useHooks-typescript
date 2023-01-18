@@ -1,5 +1,4 @@
 import React, { useCallback } from "react";
-import "./copy-json-viewer.css";
 import _ from 'lodash';
 import {
   MdClear,
@@ -8,7 +7,6 @@ import {
   MdKeyboardArrowDown,
   MdArrowRight
 } from 'react-icons/md';
-import './field-details-component.css'
 import { JsonFieldType } from "./fieldType";
 
 
